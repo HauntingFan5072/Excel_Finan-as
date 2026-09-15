@@ -48,8 +48,7 @@ Matriz perfil × tipo de FII com o percentual sugerido de alocação para cada c
 .
 ├── README.md
 ├── Planilhia_de_FII.xlsx
-└── images/
-    └── (capturas de tela, se houver)
+└── Projeto_prints
 ```
 
 ## Observação sobre os perfis de risco
